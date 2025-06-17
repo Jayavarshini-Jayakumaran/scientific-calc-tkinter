@@ -3,12 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Tkinter icon or image cache
-*.png
-*.jpg
-*.jpeg
-*.gif
-
 # Virtual environment
 venv/
 env/
@@ -26,7 +20,7 @@ ENV/
 Thumbs.db
 desktop.ini
 
-# PyInstaller or build artifacts
+# PyInstaller / build
 dist/
 build/
 *.spec
@@ -39,5 +33,12 @@ build/
 *.swp
 *.bak
 
-# Environment config files
-.env
+# Don't ignore assets folder and its images
+!assets/
+!assets/**
+
+# Ignore other stray image files outside assets
+*.png
+*.jpg
+*.jpeg
+*.gif
