@@ -2,7 +2,7 @@
 
 A **Tkinter-based Scientific Calculator** built with Python. This app supports basic and scientific operations, including trigonometric, logarithmic, and exponential functions, as well as angle mode switching (DEG/RAD).
 
-![screenshot](assets/screenshot.png)
+<img src="assets/screenshot.png" alt="screenshot" width="360" height="456">
 
 ## ✨ Features
 
