@@ -3,7 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Tkinter icon or image cache (if any)
+# Tkinter icon or image cache
 *.png
 *.jpg
 *.jpeg
@@ -16,7 +16,7 @@ ENV/
 .venv/
 .env/
 
-# VS Code settings (if using VS Code)
+# VS Code settings
 .vscode/
 
 # macOS system files
