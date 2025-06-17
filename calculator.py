@@ -70,7 +70,7 @@ update_safe_dict()
 # GUI
 window = Tk()
 window.title("Pixel Pro Calculator")
-icon = PhotoImage(file='Pixel Calculator-Icon.png')
+icon = PhotoImage(file='assets/Pixel Calculator-Icon.png')
 window.iconphoto(True, icon)
 window.configure(bg="#FFB6C1")
 window.geometry("580x700")
