@@ -26,7 +26,7 @@ Python 3.x and the following libraries:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/scientific-calc-tkinter.git
+git clone https://github.com/Jayavarshini-Jayakumaran/scientific-calc-tkinter.git
 cd scientific-calc-tkinter
 ```
 
