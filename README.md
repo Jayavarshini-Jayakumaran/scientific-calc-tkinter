@@ -36,8 +36,11 @@ cd scientific-calc-tkinter
 python calculator.py
 ```
 
-## 📝 License
+---
+📧 **Email** — [jayavarshinijayakumaran11@gmail.com](mailto:jayavarshinijayakumaran11@gmail.com)
 
-This project is licensed under the [MIT License](LICENSE).
+🙌 **Connect** — [LinkedIn: Jayavarshini Jayakumaran](https://www.linkedin.com/in/jayavarshini-jayakumaran)
 
-<p align="center"><b>Finish what you started 💻 </b></p>
+📄 **License** — [MIT](LICENSE)
+
+<p align="center"><b>Finish what you started 💻</b></p>
